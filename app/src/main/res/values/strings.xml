@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="empty_quotes">Ainda não existem frases cadastradas</string>
+    <string name="add_new_quotes">Adicionar novas frases</string>
+    <string name="author_name">Nome do autor</string>
+    <string name="quote">Citação</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="author_name_error">Por favor, insira o nome do autor</string>
+    <string name="quote_error">Por favor, insira a citação</string>
+    <string name="list_clear">Lista limpa com sucesso</string>
+</resources>
